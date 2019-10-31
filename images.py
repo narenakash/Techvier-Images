@@ -1,4 +1,8 @@
 """
+Prerequisites:
+    google_images_downlaod should be installed.
+    pip install google_images_download
+    The above command can be used to do so.
 Introduction:
     A script for scraping image thumbnails from the internet using the user's keyword.
 
@@ -32,7 +36,3 @@ if __name__ == '__main__':
 
 # Naren Akash, R J| Computer Science Undergrad
 # International Institute of Information Technology, Hyderabad| IIIT Hyderabad
-
-
-
-
